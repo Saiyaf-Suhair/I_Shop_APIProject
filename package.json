@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-crud-api-ishop",
+  "version": "1.0.0",
+  "description": "This is a CRUD API PROJECT FOR E-Commerce ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Saiyaf Suhair",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
